@@ -4,6 +4,9 @@
 #Edge detection of PPM image files.
 #Problemset found here: https://www.reddit.com/r/dailyprogrammer/comments/3zqiiq/20160106_challenge_248_intermediate_a_measure_of/. PPMs used are also found there.
 
+
+#SOBEL FILTER INCOMPLETE
+
 import os
 import sys
 import mmap
